@@ -1,4 +1,4 @@
-# Quizzler
+# Quiz-iOS
 
 Quiz app for iOS devices, features progress bar, score etc
 
