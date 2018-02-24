@@ -3,5 +3,4 @@
 Quiz app for iOS devices, features progress bar, score etc
 
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/Quizzler.gif)
-
+![Finished App](https://i.imgur.com/XVucbBS.gif)
